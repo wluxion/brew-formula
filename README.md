@@ -1,3 +1,3 @@
-# brew-formula
+# zopfli
 
-Homebrew formulas for zopfli, pngout
+Homebrew formula for zopfli
